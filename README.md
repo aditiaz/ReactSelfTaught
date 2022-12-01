@@ -21,7 +21,10 @@ Since all the file using bootsrap and reactJs so the step is applied to all file
 A step by step guide that will tell you how to get the development environment up and running.
 
 ```
+$ clone this repository
+$ open in your code editor
 $ npm install
+
 
 ```
 
