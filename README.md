@@ -1,7 +1,7 @@
 # Project Title
 
-This is me self-teaching reactJs with the help of freecodecamp
-
+This is me self-teaching reactJs from  freecoecamp 
+lessons
 
 ## Getting Started
 
